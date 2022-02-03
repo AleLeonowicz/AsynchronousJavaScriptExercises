@@ -53,6 +53,8 @@ getCountryData('poland');
 getCountryData('portugal');
 getCountryData('laos');
 getCountryData('vietnam');
+getCountryData('cambodia');
+getCountryData('norway');
 
 */
 
